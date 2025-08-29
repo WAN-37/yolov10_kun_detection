@@ -1,0 +1,11 @@
+# 数据集路径
+train: ./mydata/images/train       # 训练集图片路径
+val: ./mydata/images/val           # 验证集图片路径
+test: ./mydata/images/test         # 测
+# 类别信息
+nc: 1                    # 类别数量
+names: ['kun']  # 类别名称列表
+
+# 其他注释或元数据（可选）
+
+
